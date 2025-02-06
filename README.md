@@ -2904,6 +2904,7 @@ transductive transfer learning  |  | یادگیری انتقالی هدایتی 
 transfer |  | انتقال |  | هوش مصنوعی
 transfer learning |  | یادگیری انتقالی |  | هوش مصنوعی
 transform  |  | تبدیل   |  | پردازش سیگنال
+transformer | | مبدل | | هوش مصنوعی
 transform domain |  | حوزه تبدیل |  | هوش مصنوعی
 transformational grammar | دستور گشتاری |  |  | هوش مصنوعی
 transformational rules |  | قواعد گشتاری |  | هوش مصنوعی
